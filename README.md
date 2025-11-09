@@ -85,7 +85,7 @@ To build a predictive model that classifies customers as likely to churn or not,
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 | Factor | Impact on Churn |
 |---------|----------------|
@@ -95,7 +95,7 @@ To build a predictive model that classifies customers as likely to churn or not,
 
 ---
 
-## 💼 Business Recommendations
+## Business Recommendations
 
 ### **1. Focus on Retaining New Customers**
 - Low-tenure customers are most likely to leave.  
